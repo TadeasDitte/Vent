@@ -9,4 +9,3 @@ SPDX-License-Identifier: GPL-3.0-or-later
 An open-source app that lets you log what made you feel a certain way in any relationship [even friends, parents, family, etc.]. 
 
 ## Features
-
