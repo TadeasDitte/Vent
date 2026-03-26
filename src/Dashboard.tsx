@@ -5,6 +5,14 @@
 
 import './App.css'
 
-function App() {}
+function App() {
+
+return(
+
+    <h1>Hello, (Nickname)!</h1>
+
+)
+
+}
 
 export default App
