@@ -3,9 +3,9 @@
 //
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-import './App.css'
+import './Dashboard.css'
 
-function App() {
+function Dashboard() {
 
 return(
 
@@ -15,4 +15,4 @@ return(
 
 }
 
-export default App
+export default Dashboard
