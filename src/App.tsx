@@ -1,3 +1,8 @@
+// SPDX-FileCopyrightText: 2026 Samuel Juhaniak
+// SPDX-FileCopyrightText: 2026 Tadeáš Ditte
+//
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
