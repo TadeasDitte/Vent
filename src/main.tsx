@@ -10,6 +10,6 @@ import Dashboard from './Dashboard.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App/>
+    <Dashboard/>
   </StrictMode>,
 )

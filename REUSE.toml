@@ -1,0 +1,13 @@
+version = 1
+
+[[annotations]]
+path = "package-lock.json"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "docs/NPMgeneratedReadme.md"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
