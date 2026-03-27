@@ -2,7 +2,6 @@
 // SPDX-FileCopyrightText: 2026 Tadeáš Ditte
 //
 // SPDX-License-Identifier: GPL-3.0-or-later
-// SPDX-License-Identifier: GPL-3.0-or-later.txt
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
