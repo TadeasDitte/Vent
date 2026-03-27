@@ -4,10 +4,8 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 // SPDX-License-Identifier: GPL-3.0-or-later.txt
 
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
+import { createApp } from 'vue'
+import './style.css'
+import App from './App.vue'
 
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [vue()],
-})
+createApp(App).mount('#app')
